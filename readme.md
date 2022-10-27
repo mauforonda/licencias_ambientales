@@ -6,3 +6,7 @@
 - **Documentos** que se presentan al regulador para cada proyecto en [parquet](data/documentos.parquet) o [csv](data/documentos.csv)
 
 Cada tabla contiene dos columnas (`proyecto_codigo` y `proyecto_tipo`) que permiten relacionar datos entre ellas. 
+
+---
+
+También puedes descargar secciones de estas tablas desde [este cuaderno interactivo en observable](https://observablehq.com/@mauforonda/licencias-ambientales)
