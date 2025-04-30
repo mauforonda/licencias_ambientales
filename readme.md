@@ -1,4 +1,4 @@
-> Datos de licencias ambientales a nivel nacional otorgadas por la *Dirección General de Medio Ambiente y Cambio Climático*, documentadas en el [Sistema Nacional de Información Ambiental](http://snia.mmaya.gob.bo/web/licenciamiento.php) y recolectadas automáticamente el 26 de Octubre de 2022. 
+> Datos de licencias ambientales a nivel nacional otorgadas por la *Dirección General de Medio Ambiente y Cambio Climático*, documentadas en el [Sistema Nacional de Información Ambiental](http://snia.mmaya.gob.bo/web/licenciamiento.php) y recolectadas automáticamente el 30 de Abril de 2025. 
 
 - [Código](licencias_ambientales.ipynb)
 - **Proyectos** a los que se otorgan las licencias en [parquet](data/proyectos.parquet) o [csv](data/proyectos.csv)
